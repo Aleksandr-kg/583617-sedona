@@ -1,6 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр KG](https://up.htmlacademy.ru/htmlcss/22/user/583617).
+* Наставник: [Сергей Артёмов] https://htmlacademy.ru/profile/firefoxic.
 
 ---
 
